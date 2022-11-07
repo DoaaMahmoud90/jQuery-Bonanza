@@ -1,0 +1,53 @@
+*{
+  margin: auto;
+  padding: 0px;
+}
+
+body{
+  width: 80%;
+  border: 4px solid black;
+}
+
+header{
+  background-color: lightgray;
+  height: 75px;
+  display: flex;
+  border-bottom: 4px solid black;
+}
+
+header *{
+  margin-bottom: 10px;
+}
+
+#input{
+  width: 350px;
+  height: 25px;
+}
+
+.icon{
+  margin-right: 10px;
+}
+
+#middle-part h3{
+padding-left:30px;
+padding-bottom:0px;
+}
+
+.container{
+  width: 80%;
+  text-align: center;
+  margin-top: 40px;
+  padding-bottom: 30px;
+  border-bottom: 2px solid black;
+}
+
+.container button{
+  margin-bottom: 20px;
+  box-shadow: 2px 2px black;
+}
+
+footer{
+  background-color: lightgray;
+  height: 25px;
+  border-top: 4px solid black;
+}
