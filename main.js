@@ -11,6 +11,6 @@ $('#changeColor').click(function(){
 });
 
 $('h3').mouseover(function(){
-  $('h3').hide();
   alert('The title is hidden');
+  $('h3').hide();
 })
